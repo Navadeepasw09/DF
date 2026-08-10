@@ -59,7 +59,7 @@ FTK Imager is a Windows-based digital forensics tool used to acquire and analyze
 
 5. Select the required drive.
 
-   <img width="341" height="251" alt="5" src="https://github.com/user-attachments/assets/3285401e-a4af-43b0-8c83-a26340c5463f" />
+   <img width="1461" height="1076" alt="5 (2)" src="https://github.com/user-attachments/assets/93263e29-4027-4068-b381-2084ad16daee" />
 
 7. Click **Finish**.
 
@@ -83,7 +83,7 @@ FTK Imager is a Windows-based digital forensics tool used to acquire and analyze
 
 12. Set the image fragment size.
 
-   <img width="332" height="338" alt="11" src="https://github.com/user-attachments/assets/580e6baa-c729-45c6-8458-daf423ac4d40" />
+   <img width="1239" height="1270" alt="11 (2)" src="https://github.com/user-attachments/assets/feb1e576-5751-4716-a818-0d7fad43f9b6" />
 
 13. Enable **Verify images after they are created**.
 
